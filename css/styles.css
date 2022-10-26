@@ -1,0 +1,53 @@
+body{
+    background-image:url(./Fundo.png);
+    background-color:#FEF4DE;
+}
+#Title{
+    color:#663128;
+    font-family:'Comic sans MS';
+    left:15%;
+    top:10%;
+    position:absolute;
+    font-size:80px;
+    text-align:center;
+    width:30%;
+    height:20%;
+    text-transform:capitalize;
+}
+#subt{
+    position:absolute;
+    color:#663128;
+    top:50%;
+    left:15%;
+    font-size:20px;
+}
+#urso{
+    position:absolute;
+    top:15%;
+    left:60%;
+    width:35%;
+    height:60%;
+}
+#botao{
+    position:absolute;
+    left:15%;
+    top:70%;
+    width:15%;
+    height:76px;
+    border-radius:56px;
+    border-color:#F3CE5E;
+    background-color:#F3CE5E;
+}
+#Textbotao{
+    color:#663128;
+    font-size:1.5em;
+    
+}
+#about{
+    position:absolute;
+    color:#663128;
+    top:70%;
+    left:35%;
+    font-size:22px;
+    font-family: 'Poppins';
+}
