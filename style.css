@@ -1,0 +1,62 @@
+body{
+    background-color: rgba(254, 244, 222, 1);
+}
+
+#title {
+    color: rgba(124, 64, 50, 1);
+    text-align: center;
+    font-size: 60px;
+    padding-top: 50px;
+}
+
+#Retangulo {
+    width: 30%;
+    height: 192px;
+    left: 17%;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 30px;
+    border: 1px solid #7C4032;
+    display:inline-block;
+    position: relative;
+    margin: 30px;
+}
+
+h2{
+    color: #7C4032;
+     margin-left: 40px;
+     
+}
+
+#texto{
+position: relative;
+ color: Gray 1;
+ text-align: left;
+ left: 4%;  
+ margin: 20px; 
+}
+
+p{
+    margin-left: 8%;
+}
+#bot{
+    text-align: center;
+    margin-top: 3%;
+}
+
+#botao{
+    border-radius: 57px;
+    position: relative;
+    height: 66px;
+    width: 13%;
+    background-color: rgba(243, 206, 94, 1);
+    box-shadow: 0px 20px 40px
+    
+
+}
+h3{
+    position: relative;
+    size: 18px;
+    text-align: center;
+    color: #7C4032;
+
+}
