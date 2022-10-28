@@ -5,10 +5,11 @@
 }
 
 body{
-    background-image:url(../Imagens/Fundo.png);
+    background-image:url(../Fundo.png);
     background-color:#FEF4DE;
     font-family: "Poppins", sans-serif;
     font-style: normal; 
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
 }
 
 .Pagina1{
